@@ -1,4 +1,4 @@
-let score = 95.5; //number               N
+let score = 95.5; //number   
 console.log(score)
 console.log(typeof score)
 
