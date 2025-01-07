@@ -10,13 +10,13 @@ console.log(name)
 
 
 
-// var name = "something"
-//
-//
-//
-// const birthYear = 1990;
-//
-// const birthMonth = 1983;
+var name = "something"
+
+
+
+const birthYear = 1990;
+
+const birthMonth = 1983;
 
 
 
